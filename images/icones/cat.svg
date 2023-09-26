@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.5" height="20.75" viewBox="0 0 19.5 20.75">
+  <g id="cart_icon_path" transform="translate(-100.25 -878.25)">
+    <path id="Path_1091" data-name="Path 1091" d="M463,1014h14c-2.725,9.5-3,9-3,9H464l-2-12h-3" transform="translate(-358 -132)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <g id="Ellipse_1103" data-name="Ellipse 1103" transform="translate(104 893)" fill="none" stroke="#212121" stroke-linejoin="round" stroke-width="1.5">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.25" fill="none"/>
+    </g>
+    <g id="Ellipse_1104" data-name="Ellipse 1104" transform="translate(113 893)" fill="none" stroke="#212121" stroke-linejoin="round" stroke-width="1.5">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.25" fill="none"/>
+    </g>
+  </g>
+</svg>

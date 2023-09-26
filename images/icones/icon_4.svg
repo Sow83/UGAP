@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="42" viewBox="0 0 38 42">
+  <g id="icon_path" transform="translate(-5 -5)">
+    <path id="Path_1351" data-name="Path 1351" d="M32.994,33H39a3.059,3.059,0,0,0,3-3.115V9.115A3.059,3.059,0,0,0,39,6H9A3.059,3.059,0,0,0,6,9.115v20.77A3.059,3.059,0,0,0,9,33H23.482" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Ligne_509" data-name="Ligne 509" x2="35" transform="translate(6 14)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_1352" data-name="Path 1352" d="M33,29h4V18H26V29h1.712" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="arrow" d="M19,37.238,33,24l-.012,19.288-4.522-3.927L25.409,46,21.5,44.147l3.058-6.639Z" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="close_circles">
+      <circle id="Ellipse_566" data-name="Ellipse 566" cx="1.5" cy="1.5" r="1.5" transform="translate(28 9)" fill="#ccc"/>
+      <circle id="Ellipse_566-2" data-name="Ellipse 566" cx="1.5" cy="1.5" r="1.5" transform="translate(32 9)" fill="#ccc"/>
+      <circle id="Ellipse_566-3" data-name="Ellipse 566" cx="1.5" cy="1.5" r="1.5" transform="translate(36 9)" fill="#ccc"/>
+    </g>
+    <g id="text">
+      <line id="Ligne_510" data-name="Ligne 510" x2="10" transform="translate(11 19)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Ligne_510-2" data-name="Ligne 510" x2="10" transform="translate(11 23)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Ligne_510-3" data-name="Ligne 510" x2="10" transform="translate(11 27)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

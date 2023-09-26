@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.725" height="44" viewBox="0 0 32.725 44">
+  <g id="icon_path" transform="translate(-7.647 -2)">
+    <g id="box">
+      <path id="Tracé_969" data-name="Tracé 969" d="M39,23,24,32,9,24" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Ligne_513" data-name="Ligne 513" x2="0.006" y2="11.875" transform="translate(24.001 32.512)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Ligne_514" data-name="Ligne 514" x1="7" y2="4" transform="translate(16 24)" fill="none" stroke="#ccc" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_1350" data-name="Path 1350" d="M18,18.6,9,24V37l15,8,15-9V23l-7.569-4.037L31.405,19" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="pin">
+      <path id="Tracé_233" data-name="Tracé 233" d="M24.994,3A8.81,8.81,0,0,0,16,11.592c0,7.375,8.023,12.976,8.369,13.213a1.118,1.118,0,0,0,1.262,0C25.977,24.568,34,18.956,34,11.592A8.811,8.811,0,0,0,24.994,3Z" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Tracé_234" data-name="Tracé 234" d="M25,16.1a4.477,4.477,0,1,1,4.477-4.477h0A4.484,4.484,0,0,1,25,16.1Z" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

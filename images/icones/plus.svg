@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.307" height="17.156" viewBox="0 0 17.307 17.156">
+  <g id="pack_services_plus_icon" transform="translate(0.654 0.654)">
+    <path id="Subtraction_10" data-name="Subtraction 10" d="M-660.734,14504h0l-11.265-4.736,4.732-11.266,11.266,4.732-4.732,11.269Zm-5.766-8.751a.5.5,0,0,0-.5.5v.5a.5.5,0,0,0,.5.5h1.751v1.75a.5.5,0,0,0,.5.5h.5a.5.5,0,0,0,.5-.5v-1.75h1.747a.5.5,0,0,0,.5-.5v-.5a.5.5,0,0,0-.5-.5h-1.747v-1.751a.5.5,0,0,0-.5-.5h-.5a.5.5,0,0,0-.5.5v1.751Z" transform="translate(672 -14488)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    <g id="icon" transform="translate(5 5)">
+      <path id="path" d="M.6,0H5.4A.6.6,0,0,1,6,.6v.6a.6.6,0,0,1-.6.6H.6A.6.6,0,0,1,0,1.2V.6A.6.6,0,0,1,.6,0Z" transform="translate(0 2.1)" fill="#333" opacity="0.08"/>
+      <path id="path-2" data-name="path" d="M.6,0h.6a.6.6,0,0,1,.6.6V5.4a.6.6,0,0,1-.6.6H.6A.6.6,0,0,1,0,5.4V.6A.6.6,0,0,1,.6,0Z" transform="translate(2.1 0)" fill="#333" opacity="0.08"/>
+    </g>
+  </g>
+</svg>

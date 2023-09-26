@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="42" viewBox="0 0 43 42">
+  <g id="icon_path" transform="translate(-2 -3)">
+    <g id="arrow">
+      <path id="Tracé_970" data-name="Tracé 970" d="M37,14.5l-3,3-3-3" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Ligne_515" data-name="Ligne 515" y1="7" transform="translate(34 10.5)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="Ellipse_1117" data-name="Ellipse 1117" cx="10" cy="10" r="10" transform="translate(24 4)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g id="cart">
+      <path id="Tracé_433" data-name="Tracé 433" d="M35,24l-2.924,7a1.507,1.507,0,0,1-1.42.981H13.4a1.505,1.505,0,0,1-1.5-1.308L9.037,8H3" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Tracé_433-2" data-name="Tracé 433" d="M10,13H23" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <ellipse id="Ellipse_517" data-name="Ellipse 517" cx="3.572" cy="3.5" rx="3.572" ry="3.5" transform="translate(24 37)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_522" data-name="Line 522" y1="5.02" x2="1.909" transform="translate(12 31.98)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_523" data-name="Line 523" y1="5.02" x2="1.169" transform="translate(28 31.98)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_1353" data-name="Path 1353" d="M19,31" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_1354" data-name="Path 1354" d="M16,13" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_1355" data-name="Path 1355" d="M28,32" fill="none" stroke="#ccc" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_1356" data-name="Path 1356" d="M27,23" fill="none" stroke="#ccc" stroke-linejoin="round" stroke-width="2"/>
+      <ellipse id="Ellipse_517-2" data-name="Ellipse 517" cx="3.572" cy="3.5" rx="3.572" ry="3.5" transform="translate(8 37)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
